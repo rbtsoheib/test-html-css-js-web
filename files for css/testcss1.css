@@ -1,3 +1,11 @@
+.classheader{
+
+background: url("/files\ for\ photos/europic.jpeg") fixed bottom left ;
+height: 300px;
+width: 300px;
+
+}
+
 .classpara{
 
     color: blueviolet;
@@ -8,7 +16,7 @@
     font-display: none;
     text-align: center;
     text-shadow: 1px 21px 12px;
-
+    background-image: url("/files\ for\ photos/europic5.jpeg");
 }
 
 .classh1{
@@ -90,6 +98,13 @@
     text-transform: none;
     text-overflow: clip;
     text-shadow: 1px 2px 3px;
+
+}
+
+img{
+
+    border: 20px solid black;
+    justify-content: center;
 
 }
 
